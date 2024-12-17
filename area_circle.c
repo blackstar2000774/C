@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define PI 3.14
+#define PI 3.14159265358979323846
 void main()
 {
     int radius1 , radius2, radius3;
