@@ -14,6 +14,7 @@ void main( )
         {
             max=N3;
         }
+    }
         else
         { //N2>N1
             if (N2>N3)//N2>N1 &N2>N3
@@ -25,6 +26,5 @@ void main( )
                 max=N3;
             }
         }
+        printf("Largest=%d/n",max);
     }
-    printf("Largest=%d",max);
-}
