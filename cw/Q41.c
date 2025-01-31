@@ -1,5 +1,6 @@
 #include<stdio.h>
-void main(){
+void main()
+{
     int i, n;
     int fact=1;
     float sum=0;

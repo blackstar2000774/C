@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
-void main(){
+void main()
+{
     int i, sum=0,n,x;
     printf("Enter the value of n & x:\n");
     scanf("%d %d", &n, &x);
